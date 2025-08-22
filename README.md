@@ -1,6 +1,6 @@
 ## Sentiment Analysis About Disneyland Reviews
 
-![Sentiment Analysis About Disneyland Reviews]([https://github.com/abhishek130702/Inventory-Forecasting-using-Machine-Learning/blob/main/Inventory%20Forecasting%20using%20Machine%20Learning.png](https://github.com/abhishek130702/Sentiment-Analysis-About-Disneyland-Reviews/blob/main/Disneyland.png))
+![Sentiment Analysis About Disneyland Reviews](https://github.com/abhishek130702/Sentiment-Analysis-About-Disneyland-Reviews/blob/main/Disneyland.png)
 
 ### Inventory forecasting is the process of making estimations about future customer demand over a defined period, using historical data as well as demand drivers to better food production and supply needs.
 
