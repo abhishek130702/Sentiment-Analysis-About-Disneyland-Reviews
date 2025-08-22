@@ -2,49 +2,9 @@
 
 ![Sentiment Analysis About Disneyland Reviews](https://github.com/abhishek130702/Sentiment-Analysis-About-Disneyland-Reviews/blob/main/Disneyland.png)
 
-### Inventory forecasting is the process of making estimations about future customer demand over a defined period, using historical data as well as demand drivers to better food production and supply needs.
+This project focuses on analyzing customer reviews of Disneyland to determine their underlying sentiments. Using TextBlob and NLTK, the text data was preprocessed through techniques such as tokenization, lemmatization, and stop-word removal. Sentiment scores were then calculated to classify reviews as positive, negative, or neutral.
 
-Usually organisations follow tranditional forecasting techniques/algorithms such as Auto Arima, Auto Arima, Sarima, Simple moving average and many more.
+To enhance insights, data visualization techniques were applied, including bar charts and word clouds, allowing clear representation of sentiment distribution and common words used by visitors. The analysis highlights patterns in customer feedback, helping to identify areas of high satisfaction as well as points needing improvement.
 
+Overall, this project demonstrates how sentiment analysis combined with visualization can provide valuable insights into customer experiences and perceptions of Disneyland.
 
-## Table of Contents
-```bash
-Goal
-Workflow
-Required Packages
-Goal
-````
-Due to the recent boost in AI world, companies have started researching the possibility of using machine learning/Neural Networks in place of tranditional approach.
-
-Tuning traditional algorithms takes a significant amount of efforts and domain expertise as well.
-
-In this repo, we are trying to figure out a way of predict the same using machine learning algorithms.
-
-## Data
-The dataset comprised of units sold on a daily basis along with details regarding the sales, eg. SKU(product id), Store, price etc.
-
-record_ID, week, store_id, sku_id, total_price, base_price, is_featured_sku, is_display_sku, units_sold
-
-## Workflow
-```bash
-Handling missing values
-Feature selection
-Converting dataset into time series format to apply supervised learning approach.
-Regression Modeling
-Random Forest
-XGBoost
-SVM (future scope)
-Hyperparameter Tuning
-Result
-```
-
-### Required Packages
-```bash
-numpy
-pandas
-sklearn
-easypreprocessing
-seaborn
-matplotlib
-xgboost
-```
