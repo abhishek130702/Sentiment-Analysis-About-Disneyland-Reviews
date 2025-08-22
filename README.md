@@ -12,6 +12,6 @@ Overall, this project demonstrates how sentiment analysis combined with visualiz
 
 Sentiment analysis, also referred to as opinion mining, is an approach to natural language processing (NLP) that identifies the emotional tone behind a body of text. This is a popular way for organizations to determine and categorize opinions about a product, service, or idea.
 
-![download](https://user-images.githubusercontent.com/98955591/198831177-07d85119-d0fc-4824-96cf-692cf2b24b5d.jpg)
+![download](https://github.com/abhishek130702/Sentiment-Analysis-About-Disneyland-Reviews/blob/main/Sentiment%20Analysis.png)
 
 Sentiment analysis is a powerful marketing tool that enables product managers to understand customer emotions in their marketing campaigns. It is an important factor when it comes to product and brand recognition, customer loyalty, customer satisfaction, advertising and promotion's success, and product acceptance.
